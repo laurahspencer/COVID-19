@@ -1,2 +1,0 @@
-"0","ggplotly(ggplot(data=cases, aes(x=Date, y=Cases, group=factor(Zip), colour=factor(Zip))) + theme_minimal() + "
-"0","           geom_line(size=1.75) + scale_color_viridis(discrete = TRUE) + ggtitle(""No. of cases""))"
