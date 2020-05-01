@@ -1,0 +1,5 @@
+"0","ggplotly(ggplot(data=cases, aes(x=Date, y=Cases.per.100k, group=factor(Zip), colour=factor(Zip))) + "
+"0","           theme_minimal() + "
+"0","           geom_line(size=1.75) + "
+"0","           scale_color_viridis(discrete = TRUE) + "
+"0","           ggtitle(""Case rate per 100k""))"
